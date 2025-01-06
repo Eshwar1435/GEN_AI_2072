@@ -1,4 +1,4 @@
-**# GEN_AI**
+# **GEN_AI**
 -----
   ## Assignments
 
